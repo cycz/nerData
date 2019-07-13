@@ -2,10 +2,6 @@
 ner语料优化
 本文主要是针对https://github.com/Determined22/zh-NER-TF 这个开源工程中的一个ner语料进行优化
 
-# 修改之后
-(https://img-blog.csdnimg.cn/20190713161034166.png)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190713161059260.png)
 
 # 识别结果对比
 
